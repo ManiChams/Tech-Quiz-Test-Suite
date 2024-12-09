@@ -4,6 +4,16 @@
 
 The Tech Quiz Test Suite is a comprehensive application designed to create, manage, and take quizzes. It includes a client-side application built with React, a server-side application using Node.js and Express, and end-to-end testing with Cypress.
 
+## Table of Contents
+
+- [Overview](#overview)
+- [Features](#features)
+- [Prerequisites](#prerequisites)
+- [Installation](#installation)
+- [Running the Application](#running-the-application)
+- [Running Tests](#running-tests)
+- [License](#license)
+
 ## Features
 
 - Create and manage quizzes
