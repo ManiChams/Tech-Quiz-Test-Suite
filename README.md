@@ -68,11 +68,13 @@ npm run test
 
 ## DEMO 
 There is a video that will showcase the project and how it works.
-#VIDEO: 
+
+#VIDEO: https://drive.google.com/file/d/1MfM3OOiZ6NpURE09mwaxPFq74NbKlT1z/view?usp=drive_link
 
 
 ## links
 Github: https://github.com/ManiChams/Tech-Quiz-Test-Suite 
+
 
 
 
